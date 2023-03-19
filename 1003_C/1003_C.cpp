@@ -29,4 +29,6 @@ int main()
 
     printf("%lf", M);
 
+    return 0;
+
 }

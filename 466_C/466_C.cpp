@@ -3,12 +3,12 @@
 
 using namespace std;
 
+long long A[500005];
+long long P[500005];
+
 int main()
 {
     long long i, n, ans, total, total3, temp;
-
-    long long A[500005];
-    long long P[500005];
     
     scanf("%lld", &n);
 
